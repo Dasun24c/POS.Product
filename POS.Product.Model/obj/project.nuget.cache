@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "egl1eroKqBwEh2g6DxFxXA34XyJNz/74Db1qJ30BudgJGt8FFbbLG39rSBEz4i3DJiJ7av62bMuDEeLnNO2qmg==",
+  "success": true,
+  "projectFilePath": "F:\\POS\\POS.Product\\POS.Product.Model\\POS.Product.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d.mendis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\d.mendis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

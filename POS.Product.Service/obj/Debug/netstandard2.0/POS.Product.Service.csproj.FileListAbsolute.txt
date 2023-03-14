@@ -1,0 +1,12 @@
+F:\POS\POS.Product\POS.Product.Service\bin\Debug\netstandard2.0\POS.Product.Service.deps.json
+F:\POS\POS.Product\POS.Product.Service\bin\Debug\netstandard2.0\POS.Product.Service.dll
+F:\POS\POS.Product\POS.Product.Service\bin\Debug\netstandard2.0\POS.Product.Service.pdb
+F:\POS\POS.Product\POS.Product.Service\obj\Debug\netstandard2.0\POS.Product.Service.csprojAssemblyReference.cache
+F:\POS\POS.Product\POS.Product.Service\obj\Debug\netstandard2.0\POS.Product.Service.AssemblyInfoInputs.cache
+F:\POS\POS.Product\POS.Product.Service\obj\Debug\netstandard2.0\POS.Product.Service.AssemblyInfo.cs
+F:\POS\POS.Product\POS.Product.Service\obj\Debug\netstandard2.0\POS.Product.Service.csproj.CoreCompileInputs.cache
+F:\POS\POS.Product\POS.Product.Service\obj\Debug\netstandard2.0\POS.Product.Service.dll
+F:\POS\POS.Product\POS.Product.Service\obj\Debug\netstandard2.0\POS.Product.Service.pdb
+F:\POS\POS.Product\POS.Product.Service\bin\Debug\netstandard2.0\POS.Product.Model.dll
+F:\POS\POS.Product\POS.Product.Service\bin\Debug\netstandard2.0\POS.Product.Model.pdb
+F:\POS\POS.Product\POS.Product.Service\obj\Debug\netstandard2.0\POS.Product.Service.csproj.CopyComplete

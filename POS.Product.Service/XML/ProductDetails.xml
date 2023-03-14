@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SqlQueryStrings>
+  <SqlQueryString Id="getActivityQuestionById">
+    select ActivityName
+    FROM PFO_ActivityDataSource where Status = 1 and ActivityId = @ActivityId and PortalID = @PortalID
+  </SqlQueryString>
+</SqlQueryStrings>

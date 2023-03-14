@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjDfJD5DZkvmXuZzAtcTwTX6U/EjtTYY6szGQxMxnGzSl/4aZPzwanE3RdcoSK1BoHF9cwxQ1qF0o1ArjymQuQ==",
+  "success": true,
+  "projectFilePath": "F:\\POS\\POS.Product\\POS.Product.Service\\POS.Product.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d.mendis\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\d.mendis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\d.mendis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\d.mendis\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\d.mendis\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\d.mendis\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\d.mendis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
